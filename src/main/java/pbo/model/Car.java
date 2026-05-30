@@ -6,7 +6,7 @@ import jakarta.persistence.GeneratedValue; //untuk menentukan bahwa nilai dari f
 import jakarta.persistence.GenerationType; //utku menentukan strategi penghasil nilai untuk primary key
 import jakarta.persistence.Id; 
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne; /
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 
 @Entity
